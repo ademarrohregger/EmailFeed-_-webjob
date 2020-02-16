@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1stwebjob", "1stwebjob\1stwebjob.csproj", "{EDAD76B2-C74D-4E09-8AB4-EE13226FC20C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAD76B2-C74D-4E09-8AB4-EE13226FC20C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EDAD76B2-C74D-4E09-8AB4-EE13226FC20C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EDAD76B2-C74D-4E09-8AB4-EE13226FC20C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EDAD76B2-C74D-4E09-8AB4-EE13226FC20C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

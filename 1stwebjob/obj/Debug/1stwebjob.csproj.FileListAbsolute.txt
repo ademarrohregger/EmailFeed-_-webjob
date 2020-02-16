@@ -1,0 +1,4 @@
+/Users/Andrea/Projects/1stwebjob/1stwebjob/bin/Debug/1stwebjob.exe
+/Users/Andrea/Projects/1stwebjob/1stwebjob/bin/Debug/1stwebjob.pdb
+/Users/Andrea/Projects/1stwebjob/1stwebjob/obj/Debug/1stwebjob.exe
+/Users/Andrea/Projects/1stwebjob/1stwebjob/obj/Debug/1stwebjob.pdb
